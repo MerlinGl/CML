@@ -20,6 +20,18 @@ Haz los laboratorios en orden: cada uno parte de lo que dejó listo el anterior.
 
 Para verlo, ábrelo y usa **View raw** o el botón de descarga.
 
+## Descargas
+
+Cada estudiante descarga los instaladores con su propia cuenta, desde el sitio oficial. Este repositorio no los incluye: son software de Cisco y de Broadcom, y sus licencias no permiten redistribuirlos.
+
+| Archivo | Dónde se descarga | Tamaño aproximado |
+| --- | --- | --- |
+| `cml2_f_<versión>_amd64.ova` (máquina virtual de CML-Free) | [Cisco Software Download · CML-Free](https://software.cisco.com/download/home/286193282/type/286326381/release/CML-Free), con tu cuenta de Cisco o de Networking Academy | 1,3 GB |
+| `refplat-<fecha>-free-iso.zip` (imágenes de routers, switches y PC) | La misma página de Cisco | 3 GB |
+| VMware Workstation Pro | Portal de soporte de Broadcom, artículo «Download and license information for VMware Workstation» (sin costo, requiere cuenta) | 300 MB |
+
+Los pasos detallados están en la Parte 2 y la Parte 4 del Laboratorio 1.
+
 ## Requisitos
 
 - Laptop con Windows 10 u 11 de 64 bits y procesador Intel o AMD con virtualización; se recomiendan 16 GB de RAM y 80 GB libres en un disco SSD.
