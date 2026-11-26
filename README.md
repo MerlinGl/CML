@@ -1,3 +1,5 @@
+<img src="merlin-logo.png" alt="Merlin" width="180">
+
 # Laboratorios de Cisco Modeling Labs (CML)
 
 Guías de laboratorio y videos de Merlin Programs para instalar y usar Cisco Modeling Labs (CML-Free 2.10) en una laptop con Windows.
