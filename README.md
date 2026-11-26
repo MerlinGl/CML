@@ -18,7 +18,7 @@ Haz los laboratorios en orden: cada uno parte de lo que dejó listo el anterior.
 | --- | --- |
 | [Topología R1-R2 en CML 2.10, en movimiento](videos/Laboratorio_R1-R2_CML_2.10_en_movimiento.mp4) | Laboratorios 2 y 3 |
 
-Para verlo, ábrelo y usa **View raw** o el botón de descarga.
+Se abre en el navegador; para guardarlo, usa el botón de descarga.
 
 ## Descargas
 
