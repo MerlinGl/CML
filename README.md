@@ -18,9 +18,17 @@ Haz los laboratorios en orden: cada uno parte de lo que dejó listo el anterior.
 
 | Video | Laboratorio relacionado |
 | --- | --- |
+| [Instalar CML 2.10 (YouTube)](https://youtu.be/s35kME3EMeI) | Laboratorio 1 |
 | [Topología R1-R2 en CML 2.10, en movimiento](videos/Laboratorio_R1-R2_CML_2.10_en_movimiento.mp4) | Laboratorios 2 y 3 |
+| [Crear un laboratorio en CML con IA, sin MCP (YouTube)](https://youtu.be/-lhe1rL_oF4) | Laboratorio con IA |
 
-Se abre en el navegador; para guardarlo, usa el botón de descarga.
+Los videos de YouTube se ven en el canal de Merlin Global. El video R1-R2 se abre en el navegador; para guardarlo, usa el botón de descarga.
+
+## Laboratorio con IA
+
+[Lab_IA_Dos_Sedes.yaml](laboratorios/Lab_IA_Dos_Sedes.yaml) es el laboratorio que la IA genera en el video: dos sedes (R1 y R2, con una PC cada una) unidas por un enlace WAN, con direcciones IP y rutas estáticas ya configuradas. Usa 4 nodos, dentro del límite de CML-Free.
+
+Para usarlo: descárgalo, en CML elige **Import**, selecciona el archivo, inicia el laboratorio y, en la consola de PC1, prueba `ping 192.168.20.10`.
 
 ## Descargas
 
