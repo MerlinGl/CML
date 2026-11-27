@@ -26,7 +26,7 @@ Los videos de YouTube se ven en el canal de Merlin Global. El video R1-R2 se abr
 
 ## Presentación
 
-[La IA como copiloto del profesor de redes](https://claude.ai/artifact/TWFnmjf3JbwiQw54RGEA7K): presentación del WorkShop de IA sobre cómo instalar y usar Cisco Modeling Labs con ayuda de la IA, con los videos de los laboratorios.
+[La IA como copiloto del profesor de redes](https://claude.ai/artifact/PxAes5BkHvk3CjSHoB5KBr): presentación del WorkShop de IA sobre cómo instalar y usar Cisco Modeling Labs con ayuda de la IA, con los videos de los laboratorios.
 
 ## Laboratorio con IA
 
