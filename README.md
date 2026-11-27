@@ -24,10 +24,6 @@ Haz los laboratorios en orden: cada uno parte de lo que dejó listo el anterior.
 
 Los videos de YouTube se ven en el canal de Merlin Global. El video R1-R2 se abre en el navegador; para guardarlo, usa el botón de descarga.
 
-## Presentación
-
-[La IA como copiloto del profesor de redes](https://claude.ai/artifact/PxAes5BkHvk3CjSHoB5KBr): presentación del WorkShop de IA sobre cómo instalar y usar Cisco Modeling Labs con ayuda de la IA, con los videos de los laboratorios.
-
 ## Laboratorio con IA
 
 [Lab_IA_Dos_Sedes.yaml](laboratorios/Lab_IA_Dos_Sedes.yaml) es el laboratorio que la IA genera en el video: dos sedes (R1 y R2, con una PC cada una) unidas por un enlace WAN, con direcciones IP y rutas estáticas ya configuradas. Usa 4 nodos, dentro del límite de CML-Free.
